@@ -1,5 +1,6 @@
 class JqgridController < ApplicationController
   def index
+    @var = 'test'
   end
 
   #http://www.trirand.com/blog/jqgrid/jqgrid.html
