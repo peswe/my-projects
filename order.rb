@@ -6,4 +6,5 @@ class Order < ActiveRecord::Base
   def price
     return 100
   end
+  #a test comment.
 end
